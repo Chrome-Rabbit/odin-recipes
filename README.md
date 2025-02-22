@@ -20,7 +20,7 @@ This is my implementation of the first project from [The Odin Project](https://w
 
 ## Opening
 1. Open it in your local browser or if using linux:
-    '''bash
+    ```bash
     xdg-open index.html
 
 ## Usage
