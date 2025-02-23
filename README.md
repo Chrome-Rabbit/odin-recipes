@@ -11,7 +11,7 @@ This is my implementation of the first project from [The Odin Project](https://w
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Chrome-Rabbit/recipe-website.git
+   git clone https://github.com/Chrome-Rabbit/odin-recipes.git
 
 ## Navigation
 1. Navigate to the project directory:
