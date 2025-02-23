@@ -34,5 +34,14 @@ This project incorporates everything I’ve learned so far in The Odin Project F
 - Organizing content with nesting and hierarchy.
 - Using Git for version control with clear commit messages.
 
+## Acknowledgments
+- Thanks to [The Odin Project](https://www.theodinproject.com/) for the guided curriculum and project inspiration.
+- Thanks to [allrecipes](https://www.allrecipes.com/) for the recipes used in this project.
+- Thanks to [gentleplate](https://www.gentleplate.com/) for the image of curry.
+- Thanks to [dailyharvestexpress](https://www.dailyharvestexpress.com/) for the image of a casserole.
+- Thanks to [aberdeenskitchen](https://www.aberdeenskitch.com/) for the image of a frittata.
+- Thanks to [pixelsandplates](https://www.pixelsandplates.com/) for the image of quesadillas.
+- Thanks to [wandercooks](https://www.wandercooks.com/) for the image of mochi.
+
 # Personal Reflection 
-Before starting The Odin Project, I’d built a decent skill set in game dev and IT work—coding in C#, Python, GDScript, and Bash, plus managing projects with Git. Back then, I was scripting gameplay in Godot or automating tasks in Linux, but web development was uncharted territory. This recipe site pulled me back to basics: writing HTML from scratch and dusting off my Git habits. It’s been a shift—swapping loops and logic for tags and nesting—but it’s sharpened my focus on structure and clarity. Where I am now is a pivot point: I’ve got a simple site done, a refreshed grip on Git, and a clear path to layer on CSS and JavaScript. This project’s a bridge from my past skills to a new domain!
+Before starting The Odin Project, I’d built a decent skill set in game dev and IT work—coding in C#, Python, GDScript, and Bash, plus managing projects with Git. Back then, I was scripting gameplay in Godot or automating tasks in Linux, but web development was uncharted territory. This recipe site pulled me back to basics: writing HTML from scratch and dusting off my Git habits. It’s been a shift—swapping loops and logic for tags and attributes—but it’s sharpened my focus on structure and clarity. Where I am now is a pivot point: I’ve got a simple site done, a refreshed grip on Git, and a clear path to layer on CSS and JavaScript. This project’s a bridge from my past skills to a new domain!
