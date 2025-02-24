@@ -1,0 +1,19 @@
+h1{
+    font-style: italic;
+    font-weight: 900;   
+    color: magenta; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    background-color: greenyellow;
+}
+
+#unique{
+    background-color: aqua;
+}
+
+.soup{
+    background-color: yellow;
+    color:crimson
+}
