@@ -1,7 +1,7 @@
 # Recipe Website - Odin Project
 
 ## Overview
-This is my implementation of the first project from [The Odin Project](https://www.theodinproject.com/) Foundations course. The goal is to build a basic recipe website using foundational HTML and Git skills. It showcases a simple, functional webpage structure with multiple recipes, demonstrating core web development concepts.
+This is my implementation of the first project from [The Odin Project](https://www.theodinproject.com/) Foundations course. The goal is to build a basic recipe website using foundational HTML and Git skills. It showcases a simple, functional webpage structure with multiple recipes, demonstrating core web development concepts. If you would like to view the deployment then visit (https://chrome-rabbit.github.io/odin-recipes/)
 
 ## Features
 - **HTML Fundamentals**: Utilizes elements (e.g., `<h1>`, `<p>`, `<ul>`, `<a>`), attributes (e.g., `href`, `src`), and proper document structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`).
