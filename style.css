@@ -1,19 +1,58 @@
+html{
+    background-color: blanchedalmond;
+}
+
 h1{
     font-style: italic;
     font-weight: 900;   
     color: magenta; 
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 160px;
 }
 
 a{
     background-color: greenyellow;
 }
 
-#unique{
-    background-color: aqua;
+#casserole{
+    margin-left: 30px;
 }
 
-.soup{
+#frittata{
+    background-color: aqua;
+    margin-left: 130px;
+}
+
+#quesadillas{
+    margin-left: 180px;
+}
+
+#soup{
     background-color: yellow;
-    color:crimson
+    color:crimson;
+    margin-left: 300px;
+}
+
+button{
+    display: block;
+    background-color: red;
+    color: white;
+    font-size: 48px;
+    margin-top: 50px;
+    padding: 40px;
+}
+
+img{
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 200px;
+}
+
+div{
+    width: 540px;
+    margin: 0 auto;
+}
+
+#info-1{
+    margin-left: 50px;
 }
